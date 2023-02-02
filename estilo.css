@@ -64,3 +64,9 @@ h1{
     width: 3%;
     height: 3%;
 }
+article img {
+    float: right;
+    width: 3%;
+    height: 3%;
+}
+}
